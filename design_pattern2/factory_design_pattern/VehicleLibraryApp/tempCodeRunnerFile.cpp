@@ -1,1 +1,0 @@
-g++ -c car.cpp bike.cpp
